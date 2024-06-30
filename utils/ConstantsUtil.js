@@ -1,4 +1,4 @@
-export const stormStakeAddress = '0xeEfF9D054F0765Cb08B6D84745C7f22A6BA92076';
+export const stormStakeAddress = '0xf2248F32f468cDa48d40E3524872658Cef40F909';
 
 export const holderBonusAddress = '0x8607fe48758A0dd3F86d6839c4AB126242EE4Bb5';
 
