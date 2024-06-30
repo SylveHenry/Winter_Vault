@@ -387,7 +387,7 @@ export default function Home() {
             <div className="roadmap-title">
               <div className="con">
                 <div className="desc">
-                  <h2 className="pc">Storm Staking pool</h2>
+                  <h2 className="pc">STORM STAKING POOL</h2>
                   <p className="p">
                     Staking of the people, by the people and for the people.
                   </p>
