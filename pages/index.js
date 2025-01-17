@@ -319,7 +319,7 @@ export default function Home() {
                 <ul className="logo_container">
                   <li>
                     <div className="font_extrabold text_xl">
-                      <Link href="https://winterstorm.finance">
+                      <Link href="https://winter-storm.vercel.app/">
                         <span className="logo">
                           <span className="logo_image">
                             <img src="logo_with_word.svg" alt="" />
@@ -334,27 +334,27 @@ export default function Home() {
               <span className="primary_links">
                 <ul className="menu_right">
                   <li>
-                    <a href="https://winterstorm.finance/#about">
+                    <a href="https://winter-storm.vercel.app/#about">
                       about<span className="fillerTxt"></span>
                     </a>
                   </li>
                   <li>
-                    <a href="https://winterstorm.finance/#tokenomics">
+                    <a href="https://winter-storm.vercel.app/#tokenomics">
                       TOKENOMICS
                     </a>
                   </li>
                   <li>
-                    <a href="https://winterstorm.finance/#roadmap">
+                    <a href="https://winter-storm.vercel.app/#roadmap">
                       ROAD MAP<span className="fillerTxt"></span>
                     </a>
                   </li>
                   <li>
-                    <a href="https://winterstorm.finance/#community">
+                    <a href="https://winter-storm.vercel.app/#community">
                       Community
                     </a>
                   </li>
                   <li>
-                    <a href="https://docs.winterstorm.finance/" target="_blank">
+                    <a href="https://winter-storm.vercel.app/" target="_blank">
                       WHITEPAPER
                     </a>
                   </li>

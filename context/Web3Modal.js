@@ -10,7 +10,7 @@ const projectId = process.env.NEXT_PUBLIC_WC_CLOUD_ID
 const metadata = {
   name: 'Winter Storm',
   description: 'Winter is Here',
-  url: 'https://vault.winterstorm.finance',
+  url: 'https://winter-vault.vercel.app/',
   icons: ['https://raw.githubusercontent.com/SylveHenry/Winter_Storm/main/storm_logo.png']
 }
 

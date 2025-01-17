@@ -37,7 +37,7 @@ export default function App({ Component, pageProps }) {
 
         {/* Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://vault.winterstorm.finance" />
+        <meta property="og:url" content="https://winter-vault.vercel.app/" />
         <meta property="og:title" content="Stake & Hold Storm" />
         <meta
           property="og:description"
@@ -45,14 +45,14 @@ export default function App({ Component, pageProps }) {
         />
         <meta
           property="og:image"
-          content="https://vault.winterstorm.finance/static/images/logo_with_words.png"
+          content="https://winter-vault.vercel.app/static/images/logo_with_words.png"
         />
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta
           property="twitter:url"
-          content="https://vault.winterstorm.finance"
+          content="https://winter-vault.vercel.app/"
         />
         <meta property="twitter:title" content="Stake Storm" />
         <meta
@@ -61,7 +61,7 @@ export default function App({ Component, pageProps }) {
         />
         <meta
           property="twitter:image"
-          content="https://vault.winterstorm.finance/static/images/logo_with_words.png"
+          content="https://winter-vault.vercel.app/static/images/logo_with_words.png"
         />
       </Head>
 
